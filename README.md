@@ -60,6 +60,7 @@ javascript中的原始值（undefined、null、布尔值、数字和字符串）
 ar person1 = {name:'jozo'};
 var person2 = {name:'xiaom'};
 var person3 = {name:'xiaoq'};
+
 https://user-gold-cdn.xitu.io/2017/9/3/6fb2c3d13d830efc6ae07ac368df0816?imageView2/0/w/1280/h/960
 
 引用类型值可变
@@ -244,5 +245,5 @@ obj3：浅拷贝得到
 
 参考文章：
 
-javascript中的深拷贝和浅拷贝？
-js 基本类型与引用类型的区别
+javascript中的深拷贝和浅拷贝？https://www.zhihu.com/question/23031215
+js 基本类型与引用类型的区别http://www.qdfuns.com/notes/17660/7f82003c5ce92d39d19d6be0403f3f3b.html
