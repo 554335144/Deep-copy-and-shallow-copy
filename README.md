@@ -7,7 +7,7 @@ js 深拷贝 vs 浅拷贝
 
 本文思维导图
 本文思维导图
-本文首发于我的个人博客：cherryblog.site/
+本文首发于我的个人博客：http://cherryblog.site/
 堆和栈的区别
 其实深拷贝和浅拷贝的主要区别就是其在内存中的存储类型不同。
 
@@ -60,8 +60,8 @@ javascript中的原始值（undefined、null、布尔值、数字和字符串）
 ar person1 = {name:'jozo'};
 var person2 = {name:'xiaom'};
 var person3 = {name:'xiaoq'};
-堆内存
-堆内存
+https://user-gold-cdn.xitu.io/2017/9/3/6fb2c3d13d830efc6ae07ac368df0816?imageView2/0/w/1280/h/960
+
 引用类型值可变
 
 引用类型是可以直接改变其值的，例如：
